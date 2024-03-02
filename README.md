@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shanib c k</h1>
 <h3 align="center">A passionate MERN-Stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SHANIB-C-K" alt="shanib-c-k" /></a> </p>
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" alt="shanib-c-k">
 
 - 👋 Hi, I’m @SHANIBCK. Iam a Mern stack developer
@@ -10,10 +9,14 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ckshanib8@gmail.com
 
+<br />
+<br />
+
 <!---
 SHANIBCK/SHANIBCK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SHANIB-C-K" alt="shanib-c-k" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
