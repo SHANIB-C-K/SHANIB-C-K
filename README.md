@@ -3,6 +3,9 @@
 
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" alt="shanib-c-k">
 
+<br />
+<br />
+
 - 👋 Hi, I’m @SHANIBCK. Iam a Mern stack developer
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning DIPLOMA IN COMPUTER ENGINEERING 
