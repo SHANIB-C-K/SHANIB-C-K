@@ -1,41 +1,55 @@
-<h1 align="center">Hi 👋, I'm SHANIB C K</h1>
-<h3 align="center">A passionate MERN-Stack developer from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=3F00F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+SHANIB+C+K;MERN+Stack+Developer" alt="Typing SVG" />
+</div>
 
-<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" alt="shanib-c-k">
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" width="400" alt="coding"/>
+</div>
 
-<br />
-<br />
-
-- 👋 Hi, I’m @SHANIBCK. Iam a Mern stack developer
-- 👀 I’m interested in computer programming
-- 🌱 I’m currently learning DIPLOMA IN COMPUTER ENGINEERING 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ckshanib8@gmail.com
-
-<br />
-<br />
-
-<!---
-SHANIBCK/SHANIBCK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SHANIB-C-K" alt="shanib-c-k" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/shanib_c_k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="SHANIB-C-K" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shanib-c-k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SHANIB_C_K" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shanib_c_k_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shanib_c_k_" height="30" width="40" /></a>
-<a href="https://wa.link/4vi421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="shanib_c_k" height="30" width="40" /></a>
-<a href="https://twitter.com/Shanib_c_k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shanib_c_k" height="30" width="40" /></a>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://www.bing.com/ck/a?!&&p=0b84a9f609818c7dJmltdHM9MTcwOTMzNzYwMCZpZ3VpZD0yZTcyZmZiYi1jY2M0LTZjZjktMzYzMy1lZDQ1Y2QzMzZkNDgmaW5zaWQ9NTIyOA&ptn=3&ver=2&hsh=3&fclid=2e72ffbb-ccc4-6cf9-3633-ed45cd336d48&psq=firebase&u=a1aHR0cHM6Ly9maXJlYmFzZS5nb29nbGUuY29tLw&ntb=1" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.bing.com/ck/a?!&&p=d2a2924f27b1b1e8JmltdHM9MTcwOTMzNzYwMCZpZ3VpZD0yZTcyZmZiYi1jY2M0LTZjZjktMzYzMy1lZDQ1Y2QzMzZkNDgmaW5zaWQ9NTIyOQ&ptn=3&ver=2&hsh=3&fclid=2e72ffbb-ccc4-6cf9-3633-ed45cd336d48&psq=flutter&u=a1aHR0cHM6Ly9mbHV0dGVyLmRldi8&ntb=1" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.bing.com/ck/a?!&&p=8e11cb6f48853835JmltdHM9MTcwOTMzNzYwMCZpZ3VpZD0yZTcyZmZiYi1jY2M0LTZjZjktMzYzMy1lZDQ1Y2QzMzZkNDgmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=2e72ffbb-ccc4-6cf9-3633-ed45cd336d48&psq=php&u=a1aHR0cHM6Ly93d3cucGhwLm5ldC8&ntb=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.bing.com/ck/a?!&&p=f4cb72adc5af51bbJmltdHM9MTcwOTMzNzYwMCZpZ3VpZD0yZTcyZmZiYi1jY2M0LTZjZjktMzYzMy1lZDQ1Y2QzMzZkNDgmaW5zaWQ9NTIxNw&ptn=3&ver=2&hsh=3&fclid=2e72ffbb-ccc4-6cf9-3633-ed45cd336d48&psq=django&u=a1aHR0cHM6Ly93d3cuZGphbmdvcHJvamVjdC5jb20v&ntb=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> </a> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SHANIB-C-K&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SHANIB-C-K&show_icons=true&locale=en&layout=compact" alt="SHANIB-C-K" /></p>
+### 👨‍💻 About Me:
+- 🎓 Currently pursuing **Diploma in Computer Engineering**
+- 💻 Passionate **MERN Stack Developer** from India
+- 🌱 Learning and growing in the world of web development
+- 📫 Reach me at: **ckshanib8@gmail.com**
+- ⚡ Fun fact: I love turning coffee into code! ☕️
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SHANIB-C-K&show_icons=true&locale=en" alt="SHANIB-C-K" /></p>
+<div align="center">
+  <h2>🏆 GitHub Trophies 2025</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=SHANIB-C-K&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies"/>
+</div>
+
+<h2 align="center">🌐 Connect with me</h2>
+<p align="center">
+  <a href="https://dev.to/shanib_c_k/" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
+  <a href="https://www.linkedin.com/in/shanib-c-k/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/shanib_c_k_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://wa.link/4vi421" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://twitter.com/Shanib_c_k/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
+
+<h2 align="center">💻 Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+</p>
+
+<div align="center">
+  <h2>📊 GitHub Stats 2025</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=SHANIB-C-K&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHANIB-C-K&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHANIB-C-K&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</div>
