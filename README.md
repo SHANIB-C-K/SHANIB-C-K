@@ -14,7 +14,7 @@
 - 🎓 Currently pursuing **Diploma in Computer Engineering**
 - 💻 Passionate **MERN Stack Developer** from India
 - 🌱 Learning and growing in the world of web development
-- 📫 Reach me at: **ckshanib8@gmail.com**
+- 📫 Reach me at: **dev.shanibck@gmail.com**
 - ⚡ Fun fact: I love turning coffee into code! ☕️
 
 <div align="center">
