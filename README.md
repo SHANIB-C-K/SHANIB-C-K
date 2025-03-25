@@ -3,53 +3,89 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" width="400" alt="coding"/>
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" width="400" alt="Coding Animation"/>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SHANIB-C-K&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=SHANIB-C-K&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### 👨‍💻 About Me:
-- 🎓 Currently pursuing **Diploma in Computer Engineering**
-- 💻 Passionate **MERN Stack Developer** from India
-- 🌱 Learning and growing in the world of web development
-- 📫 Reach me at: **dev.shanibck@gmail.com**
-- ⚡ Fun fact: I love turning coffee into code! ☕️
+---
 
-<div align="center">
-  <h2>🏆 GitHub Trophies 2025</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=SHANIB-C-K&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies"/>
-</div>
+### 👨‍💻 **About Me**
 
-<h2 align="center">🌐 Connect with me</h2>
+- 🎓 **Education:** Diploma in Computer Engineering at Ma'din Polytechnic College, Malappuram.
+- 💼 **Role:** CTO & Co-Founder at [AppTech Gig](https://www.linkedin.com/company/apptechgig/).
+- 🌱 **Passionate About:** Full-stack development, UI/UX design, and scalable web apps.
+- 🚀 **Tech Enthusiast:** Love to explore new frameworks, contribute to open-source, and build high-performance applications.
+- 💬 **Ask me about:** MERN stack, backend development, and modern UI design.
+- 📫 **Reach Me:** dev.shanibck@gmail.com
+- 🌍 **Website:** [shanibck.site](https://www.shanibck.site/)
+- ⚡ **Fun Fact:** I turn caffeine into clean, functional code! ☕️
+
+---
+
+### 🎯 **My Mission & Work Philosophy**
+
+💡 **"Innovation is at the core of every great project."** I strive to bring creative, efficient, and scalable solutions to real-world problems through web development and technology.
+
+🚀 **Building for the Future:**  
+I believe in the power of technology to transform businesses and lives. My goal is to create intuitive, user-friendly, and high-performance applications that make an impact.
+
+👨‍💻 **Code with Purpose:**  
+I focus on **clean code**, **best practices**, and **scalability**, ensuring that my projects are maintainable and efficient.
+
+🤝 **Collaboration & Community:**  
+Open-source contributions and tech discussions are my way of giving back to the developer community.
+
+---
+
+### 🛠️ **Tech Stack**
+
 <p align="center">
-  <a href="https://dev.to/shanib_c_k/" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
-  <a href="https://www.linkedin.com/in/shanib-c-k/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+---
+
+### 🏆 **GitHub Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SHANIB-C-K&theme=tokyonight&no-frame=true&margin-w=5" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 🔗 **Connect with Me**
+
+<p align="center">
+  <a href="https://dev.to/shanib_c_k/" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
+  <a href="https://www.linkedin.com/in/shanib-c-k/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/shanib_c_k_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://wa.link/4vi421" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="https://twitter.com/Shanib_c_k/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-</p>
+---
 
-<div align="center">
-  <h2>📊 GitHub Stats 2025</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=SHANIB-C-K&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHANIB-C-K&theme=radical&hide_border=false" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHANIB-C-K&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</div>
+### 💼 **Services Offered**
+
+🔹 **Web Development:** Full-stack development using the **MERN stack** to create modern, scalable web applications.  
+🔹 **UI/UX Design:** Building **responsive and intuitive** user interfaces with **Tailwind CSS** and **React.js**.  
+🔹 **Backend Development:** Crafting secure and optimized **RESTful APIs** using **Node.js & Express.js**.  
+🔹 **Open-Source Contributions:** Actively contributing to the developer community by sharing knowledge and resources.
+
+📢 **Need a developer for your next project? Let's collaborate!** [Contact me](mailto:dev.shanibck@gmail.com)
+
+---
+
+✨ _Let's build something amazing together!_ ✨
