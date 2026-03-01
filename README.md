@@ -2,7 +2,7 @@
 <!--                  ANIMATED HEADER BANNER                -->
 <!-- ═══════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00FFFF,100:00FF88&height=280&section=header&text=SHANIB%20C%20K&fontSize=80&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=CTO%20%26%20Co-Founder%20%40%20AppTech%20Gig%20%7C%20Full-Stack%20Developer%20%7C%20Ethical%20Hacker&descAlignY=58&descAlign=50&descSize=15" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00FFFF,100:00FF88&height=280&section=header&text=SHANIB%20C%20K&fontSize=80&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=CTO%20and%20Co-Founder%20%40%20AppTech%20Gig%20%7C%20Full-Stack%20Developer%20%7C%20Ethical%20Hacker&descAlignY=58&descAlign=50&descSize=15" width="100%" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════ -->
@@ -18,7 +18,7 @@
 <!--                    CODING GIF                          -->
 <!-- ═══════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="230" alt="Coding Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="680" alt="Code Writing Animation"/>
 </div>
 
 <br/>
