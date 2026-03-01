@@ -15,10 +15,10 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--                    CODING GIF                          -->
+<!--               CODE WRITING ANIMATION                   -->
 <!-- ═══════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="680" alt="Code Writing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=180&lines=const+ShanibCK+%3D+new+Developer();+%2F%2F+%F0%9F%9A%80;+;ShanibCK.skills+%3D+%5B'React'%2C+'Node.js'%2C+'MongoDB'%5D;;ShanibCK.role+%3D+'CTO+%40+AppTech+Gig';;ShanibCK.build(idea)+%3D%3E+innovation; " alt="Code Writing Animation"/>
 </div>
 
 <br/>
@@ -130,10 +130,10 @@ const shanib = {
 
 <div align="center">
 
-<!-- Stats Card + Top Languages (using official vercel deployment) -->
-<img src="https://github-readme-stats.vercel.app/api?username=SHANIB-C-K&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=C9D1D9&custom_title=GitHub%20Stats&count_private=true&include_all_commits=true" alt="GitHub Stats" height="185"/>
+<!-- Stats Card + Top Languages — using anuraghazra1 personal deployment (official paused) -->
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=SHANIB-C-K&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=C9D1D9&custom_title=GitHub%20Stats&count_private=true&include_all_commits=true" alt="GitHub Stats" height="185"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHANIB-C-K&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&custom_title=Most%20Used%20Languages&langs_count=8" alt="Top Languages" height="185"/>
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=SHANIB-C-K&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&custom_title=Most%20Used%20Languages&langs_count=8" alt="Top Languages" height="185"/>
 
 </div>
 
