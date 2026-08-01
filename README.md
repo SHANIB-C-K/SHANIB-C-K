@@ -2,15 +2,16 @@
 <!--                  PREMIUM HEADER BANNER                 -->
 <!-- ═══════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=SHANIB%20C%20K&fontSize=90&fontAlignY=35&fontColor=fff&animation=twinkling&desc=CTO%20%26%20Co-Founder%20%40%20AppTech%20Gig%20%7C%20Full-Stack%20Developer%20%7C%20Certified%20Ethical%20Hacker&descAlignY=55&descAlign=50&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=SHANIB%20C%20K&fontSize=90&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Multi-Company%20Tech%20Leader%20%7C%20Full-Stack%20Architect%20%7C%20Certified%20Ethical%20Hacker&descAlignY=55&descAlign=50&descSize=16" width="100%" />
 </div>
 
 <div align="center">
   
-  <!-- Premium Badges -->
-  <img src="https://img.shields.io/badge/🚀_CTO-AppTech_Gig-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Role"/>
-  <img src="https://img.shields.io/badge/🛡️_CEH-Certified-00FFFF?style=for-the-badge&labelColor=0D1117" alt="CEH"/>
-  <img src="https://img.shields.io/badge/💻_Full_Stack-MERN-00FF88?style=for-the-badge&labelColor=0D1117" alt="Stack"/>
+  <!-- Premium Role Badges -->
+  <img src="https://img.shields.io/badge/🚀_CTO%20%26%20Co--Founder-AppTech_Gig-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="AppTech Gig"/>
+  <img src="https://img.shields.io/badge/💼_Tech_Leader-Futurinx-00FFFF?style=for-the-badge&labelColor=0D1117" alt="Futurinx"/>
+  <img src="https://img.shields.io/badge/🛡️_Certified-Ethical_Hacker-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="CEH"/>
+  <img src="https://img.shields.io/badge/💻_Full_Stack-MERN_Expert-00FF88?style=for-the-badge&labelColor=0D1117" alt="Stack"/>
   
 </div>
 
@@ -20,7 +21,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=900&height=70&lines=🚀+Architecting+Scalable+Solutions;💡+MERN+Stack+%7C+Full-Stack+Innovation;🛡️+Cybersecurity+%7C+Ethical+Hacking;🎨+Crafting+Premium+User+Experiences;⚙️+Building+Tomorrow's+Technology+Today" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=950&height=70&lines=🚀+Leading+Innovation+Across+Multiple+Ventures;💡+CTO+%40+AppTech+Gig+%7C+Tech+Leader+%40+Futurinx;🛡️+Certified+Ethical+Hacker+%7C+Security+Expert;🎨+Building+Scalable+%26+Efficient+Solutions;⚙️+Full-Stack+Architect+%7C+MERN+Specialist" alt="Typing Animation" />
 </div>
 
 <br/>
@@ -31,30 +32,50 @@
 <div align="center">
   
 ```typescript
-class Developer {
+class TechLeader {
   name     = "Shanib C K";
-  role     = "CTO & Co-Founder @ AppTech Gig";
-  location = "🌍 Building globally, thinking locally";
+  
+  roles    = [
+    {
+      position: "CTO & Co-Founder",
+      company: "AppTech Gig",
+      focus: ["Product Architecture", "Team Leadership", "Innovation Strategy"]
+    },
+    {
+      position: "Technology Leader",
+      company: "Futurinx",
+      focus: ["Scalable Solutions", "Web Development", "Digital Systems"]
+    }
+  ];
+  
+  location = "🌍 Building globally, impacting locally";
   
   expertise = {
-    frontend  : ["React", "Next.js", "TypeScript", "Tailwind"],
+    frontend  : ["React", "Next.js", "TypeScript", "Tailwind CSS"],
     backend   : ["Node.js", "Express", "Python", "Django"],
-    databases : ["MongoDB", "PostgreSQL", "Redis"],
-    cloud     : ["AWS", "Docker", "Firebase"],
-    security  : ["CEH Certified", "OWASP", "Penetration Testing"]
+    databases : ["MongoDB", "PostgreSQL", "Redis", "Firebase"],
+    cloud     : ["AWS", "Docker", "Microservices", "Serverless"],
+    security  : ["CEH Certified", "OWASP", "Penetration Testing", "Secure Coding"]
+  };
+  
+  specialization = {
+    architecture  : "Building scalable, efficient & maintainable systems",
+    leadership    : "Driving innovation across multiple tech companies",
+    optimization  : "Performance, speed & long-term scalability",
+    security      : "Security-first development approach"
   };
   
   currentFocus = () => {
-    return "🔥 Building AI-powered cloud-native products";
+    return "🔥 Leading multiple tech ventures & building AI-powered solutions";
   };
   
   philosophy = () => {
-    return "Innovation through clean code & scalable architecture";
+    return "Technology should not only look good but perform efficiently";
   };
 }
 
-const shanib = new Developer();
-console.log(shanib.currentFocus()); // Let's build something amazing! 🚀
+const shanib = new TechLeader();
+console.log(shanib.currentFocus()); // Let's build the future together! 🚀
 ```
 
 </div>
@@ -148,13 +169,76 @@ const shanib = {
 
 <br clear="right"/>
 
-### 🎯 Current Focus
+### 🎯 Current Leadership Roles
 
-- 🚀 **Leading Development** at [AppTech Gig](https://www.linkedin.com/company/apptechgig/) as CTO & Co-Founder
-- 🧠 **Exploring:** AI Integration, Cloud Architecture & Serverless Technologies
-- 🛡️ **Security First:** Implementing best practices in every line of code
-- 🌱 **Always Learning:** Keeping up with the latest in web3, AI/ML, and DevOps
-- 💬 **Let's Talk:** MERN Stack, System Design, Cybersecurity & Startup Building
+<div align="center">
+
+| 🏢 Organization | 👔 Position | 🎯 Focus Areas |
+|----------------|-------------|----------------|
+| **[AppTech Gig](https://www.linkedin.com/company/apptechgig/)** | CTO & Co-Founder | Product Strategy • Tech Architecture • Team Leadership |
+| **[Futurinx](https://www.futurinx.com/)** | Technology Leader | Scalable Web Solutions • SEO Systems • Digital Infrastructure |
+
+</div>
+
+### 💡 What I'm Doing Now
+
+- 🚀 **Leading Multiple Ventures:** Driving innovation across AppTech Gig & Futurinx
+- 🧠 **Tech Focus:** AI Integration, Cloud-Native Architecture & Scalable Systems
+- 🛡️ **Security Champion:** Implementing security-first development practices
+- 🎨 **UX Advocate:** Building solutions that perform efficiently and look premium
+- 🌱 **Continuous Learning:** Exploring Web3, AI/ML, Advanced DevOps & System Design
+- 💬 **Open to Discuss:** MERN Stack, Microservices, Cybersecurity & Startup Growth
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                 PREMIUM TECH STACK                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJiZWE0eGxpMjN2ZXJ4ZjJhMHIwOGlrYnhtdWloMWh2NWl0c3k3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iT138SodaVgXnkmKpe/giphy.gif" width="35"> Professional Experience
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🚀-CTO%20%26%20Co--Founder-8A2BE2?style=for-the-badge&labelColor=0D1117" />
+
+### **AppTech Gig**
+
+Building innovative products & leading technical strategy
+
+**Key Responsibilities:**
+- 🎯 Product Architecture & Development
+- 👥 Technical Team Leadership
+- 🔧 Full-Stack Development (MERN)
+- 📈 Scaling Infrastructure
+- 🤝 Client & Stakeholder Management
+
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/💼-Technology%20Leader-00FFFF?style=for-the-badge&labelColor=0D1117" />
+
+### **Futurinx**
+
+Delivering scalable digital solutions & web systems
+
+**Key Responsibilities:**
+- 🌐 Scalable Web Development
+- ⚡ Performance Optimization
+- 🔍 SEO & Digital Strategy
+- 🛠️ Technical System Design
+- 📊 Efficiency & Usability Focus
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -264,6 +348,58 @@ const shanib = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5scDFvdWw3Y2ZmYzN6a3c4NWUxMmRpNWZ5dnQ2Znd1Yjg5dDN1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TFaSUdEEHM848/giphy.gif" width="35"> Key Achievements & Impact
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🏢-2+-8A2BE2?style=for-the-badge&labelColor=0D1117" />
+<br/>
+<b>Companies Led</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🚀-50+-00FFFF?style=for-the-badge&labelColor=0D1117" />
+<br/>
+<b>Projects Delivered</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/💻-1M+-00FF88?style=for-the-badge&labelColor=0D1117" />
+<br/>
+<b>Lines of Code</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🛡️-CEH-FF6B6B?style=for-the-badge&labelColor=0D1117" />
+<br/>
+<b>Certified</b>
+</td>
+</tr>
+</table>
+
+### 🌟 What I Bring to the Table
+
+```diff
++ Multi-Company Leadership: Successfully managing technical operations across organizations
++ Scalable Architecture: Designing systems that handle growth efficiently  
++ Security-First Approach: CEH certified with focus on secure, robust solutions
++ Full-Stack Expertise: End-to-end development from UI/UX to backend & DevOps
++ Performance Optimization: Building fast, efficient & user-friendly applications
++ Team Leadership: Guiding teams to deliver high-quality products on time
+```
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--               PREMIUM ACTIVITY GRAPH                   -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Contribution Activity
 
 <br/>
@@ -310,9 +446,9 @@ const shanib = {
 
 <br/>
 
-### 💼 Open to exciting opportunities and collaborations!
+### 💼 Leading Innovation at AppTech Gig & Futurinx
 
-*Whether it's building the next big thing, discussing cutting-edge tech, or exploring innovative solutions — let's make it happen!*
+*Whether you need a CTO to scale your startup, a tech leader for your next big project, or just want to discuss cutting-edge technologies — I'm here to collaborate and innovate!*
 
 <br/>
 
@@ -327,14 +463,19 @@ const shanib = {
 <a href="https://www.linkedin.com/in/shanib-c-k/" target="_blank">
   <img src="https://img.shields.io/badge/💼_Connect_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://www.futurinx.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Futurinx-00FFFF?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Futurinx"/>
+</a>
 
 <br/><br/>
 
-### ⚡ Quick Stats
+### ⚡ Quick Impact Metrics
 
-<img src="https://img.shields.io/badge/☕_Coffee_Consumed-∞-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/💻_Lines_of_Code-1M%2B-00FFFF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/🚀_Projects_Deployed-50%2B-00FF88?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/☕_Coffee_to_Code-∞-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/💼_Companies_Led-2+-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/💻_Lines_Written-1M%2B-00FFFF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🚀_Projects_Shipped-50%2B-00FF88?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/🌟_Problems_Solved-1000%2B-FFD700?style=for-the-badge&labelColor=0D1117"/>
 
 <br/><br/>
@@ -343,13 +484,13 @@ const shanib = {
 
 <br/>
 
-### 🎯 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 🎯 *"Technology should not only look good but perform efficiently."*
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-**⭐ From [SHANIB-C-K](https://github.com/SHANIB-C-K) | Built with 💙 and lots of ☕**
+**⭐ From [SHANIB-C-K](https://github.com/SHANIB-C-K) | Multi-Company Tech Leader | Built with 💙 and lots of ☕**
 
 </div>
 
