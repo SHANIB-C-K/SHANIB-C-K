@@ -1,58 +1,54 @@
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  PREMIUM HEADER BANNER                 -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00FFFF,100:00FF88&height=280&section=header&text=SHANIB%20C%20K&fontSize=80&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Technology%20Leader%20%40%20Futurinx%20%7C%20Full-Stack%20Developer%20%7C%20Certified%20Ethical%20Hacker&descAlignY=58&descAlign=50&descSize=15" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00FFFF,100:00FF88&height=280&section=header&text=SHANIB%20C%20K&fontSize=80&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Technology%20Leader%20@%20Futurinx%20|%20Full-Stack%20Developer%20|%20Certified%20Ethical%20Hacker&descAlignY=58&descAlign=50&descSize=15" width="100%" />
 </div>
 
 <div align="center">
   
-  <!-- Premium Role Badges -->
-  <img src="https://img.shields.io/badge/🚀_Technology_Leader-Futurinx-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Futurinx"/>
-  <img src="https://img.shields.io/badge/🛡️_Certified-Ethical_Hacker-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="CEH"/>
-  <img src="https://img.shields.io/badge/💻_Full_Stack-MERN_Expert-00FF88?style=for-the-badge&labelColor=0D1117" alt="Stack"/>
-  <img src="https://img.shields.io/badge/☁️_Cloud-AWS_Expert-00FFFF?style=for-the-badge&labelColor=0D1117" alt="Cloud"/>
+  <!-- Role Badges -->
+  <img src="https://img.shields.io/badge/🚀_TECHNOLOGY_LEADER-FUTURINX-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Futurinx"/>
+  <img src="https://img.shields.io/badge/🛡️_CERTIFIED-ETHICAL_HACKER-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="CEH"/>
+  <img src="https://img.shields.io/badge/💻_FULL_STACK-MERN_EXPERT-00FF88?style=for-the-badge&labelColor=0D1117" alt="Stack"/>
+  <img src="https://img.shields.io/badge/☁️_CLOUD-AWS_EXPERT-00FFFF?style=for-the-badge&labelColor=0D1117" alt="Cloud"/>
   
-</div>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                 PREMIUM TYPING ANIMATION               -->
-<!-- ═══════════════════════════════════════════════════════ -->
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=900&height=70&lines=🚀+Building+Scalable+%26+Efficient+Solutions;💡+Technology+Leader+%40+Futurinx;🛡️+Certified+Ethical+Hacker+%7C+Security+Expert;🎨+Performance+Optimization+Specialist;⚙️+Full-Stack+Architect+%7C+MERN+Stack" alt="Typing Animation" />
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  PREMIUM SOCIAL BADGES                 -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=850&height=60&lines=🚀+Building+Scalable+%26+Efficient+Solutions;💡+Technology+Leader+%40+Futurinx;🛡️+Certified+Ethical+Hacker+%7C+Security+Expert;🎨+Performance+Optimization+Specialist;⚙️+Full-Stack+Architect+%7C+MERN+Stack" alt="Typing Animation" />
+</div>
+
+<br/>
+
+---
+
+<!-- Connect Section -->
 <div align="center">
   
-  ### 🔗 Connect With Me
+  ## 🔗 Connect With Me
   
   <a href="https://www.futurinx.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Futurinx-Visit_Website-8A2BE2?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Futurinx"/>
+    <img src="https://img.shields.io/badge/🌐_FUTURINX-VISIT_WEBSITE-8A2BE2?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Futurinx"/>
   </a>
   <a href="https://www.shanibck.site/" target="_blank">
-    <img src="https://img.shields.io/badge/💼_Portfolio-View_Work-00FFFF?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/💼_PORTFOLIO-VIEW_WORK-00FFFF?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/shanib-c-k/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
   </a>
   <a href="mailto:dev.shanibck@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
   </a>
   <a href="https://twitter.com/Shanib_c_k/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/TWITTER-FOLLOW-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" alt="Twitter"/>
   </a>
   <a href="https://dev.to/shanib_c_k/" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0D1117" alt="Dev.to"/>
+    <img src="https://img.shields.io/badge/DEV.TO-ARTICLES-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0D1117" alt="Dev.to"/>
   </a>
   <a href="https://www.instagram.com/shanib_c_k_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/>
   </a>
   
 </div>
@@ -68,13 +64,9 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  PREMIUM ABOUT SECTION                 -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## ⚡ About Me
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```typescript
 class TechLeader {
@@ -133,7 +125,7 @@ console.log(shanib.philosophy());
 - **📊 Business Growth Solutions** - Helping businesses scale through technology
 
 #### 💡 My Philosophy:
-*"We believe that technology should not only look good but also perform efficiently. That's why every solution we build is optimized for speed, usability, and long-term scalability."*
+> *"We believe that technology should not only look good but also perform efficiently. That's why every solution we build is optimized for speed, usability, and long-term scalability."*
 
 ---
 
@@ -148,15 +140,11 @@ console.log(shanib.philosophy());
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                 PREMIUM TECH STACK                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## 🛠️ Tech Stack & Expertise
 
 <div align="center">
 
-### 🎨 **Frontend Development**
+### 🎨 Frontend Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -167,9 +155,7 @@ console.log(shanib.philosophy());
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-<br/>
-
-### ⚙️ **Backend & Databases**
+### ⚙️ Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -180,9 +166,7 @@ console.log(shanib.philosophy());
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<br/>
-
-### 🚀 **DevOps & Cloud**
+### 🚀 DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -193,9 +177,7 @@ console.log(shanib.philosophy());
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<br/>
-
-### 🛠️ **Tools & Platforms**
+### 🛠️ Tools & Platforms
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -204,15 +186,12 @@ console.log(shanib.philosophy());
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
 </div>
 
 <br/>
 
-<div align="center">
-
-### 💡 **Core Competencies**
+### 💡 Core Competencies
 
 | Domain | Skills |
 |--------|--------|
@@ -225,98 +204,57 @@ console.log(shanib.philosophy());
 | **SEO & Digital** | Technical SEO • Performance Optimization • Analytics • Digital Strategy |
 | **Others** | System Design • Clean Architecture • Agile • Team Collaboration • Technical Leadership |
 
-</div>
-
 ---
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--               PREMIUM GITHUB STATISTICS                -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Statistics
 
-<br/>
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SHANIB-C-K&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=C9D1D9&ring_color=8A2BE2&custom_title=📊%20GitHub%20Statistics&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SHANIB-C-K&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=8A2BE2&currStreakLabel=00FFFF&sideLabels=C9D1D9&dates=888888&stroke=0D1117&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SHANIB-C-K&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=C9D1D9&ring_color=8A2BE2&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SHANIB-C-K&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=8A2BE2&currStreakLabel=00FFFF&sideLabels=C9D1D9&dates=888888&stroke=0D1117" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHANIB-C-K&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&custom_title=💻%20Most%20Used%20Languages&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=SHANIB_C_K&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&layout=compact" alt="Coding Activity" onerror="this.style.display='none'"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHANIB-C-K&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SHANIB-C-K&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=C9D1D9&hide_rank=true&custom_title=Total%20Contributions" alt="Contributions"/>
 </div>
 
 <br/>
 
-<!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SHANIB-C-K&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7&title=Stars,Commits,Repositories,Followers,MultiLanguage,PullRequest,Issues" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SHANIB-C-K&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHANIB-C-K&bg_color=0D1117&color=00FFFF&line=8A2BE2&point=00FF88&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph&area_color=8A2BE2" alt="Contribution Graph" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHANIB-C-K&bg_color=0D1117&color=00FFFF&line=8A2BE2&point=00FF88&area=true&hide_border=true&area_color=8A2BE2" alt="Contribution Graph" width="98%"/>
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--             PREMIUM SNAKE ANIMATION                    -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## 🐍 Contribution Snake
-
-<br/>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHANIB-C-K/SHANIB-C-K/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHANIB-C-K/SHANIB-C-K/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/SHANIB-C-K/SHANIB-C-K/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SHANIB-C-K/SHANIB-C-K/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--              KEY ACHIEVEMENTS & IMPACT                 -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## 🌟 Key Achievements & Impact
-
-<br/>
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🚀-50+-00FFFF?style=for-the-badge&labelColor=0D1117" />
-<br/>
-<b>Projects Delivered</b>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/💻-1M+-00FF88?style=for-the-badge&labelColor=0D1117" />
-<br/>
-<b>Lines of Code</b>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🛡️-CEH-FF6B6B?style=for-the-badge&labelColor=0D1117" />
-<br/>
-<b>Certified</b>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/⚡-Fast-FFD700?style=for-the-badge&labelColor=0D1117" />
-<br/>
-<b>Optimized Systems</b>
-</td>
-</tr>
-</table>
+| 🚀 Projects | 💻 Code | 🛡️ Security | ⚡ Performance |
+|:-----------:|:-------:|:-----------:|:-------------:|
+| **50+** | **1M+** Lines | **CEH** Certified | **Optimized** Systems |
+
+</div>
 
 ### 💪 What I Bring to the Table
 
@@ -330,19 +268,11 @@ console.log(shanib.philosophy());
 + Continuous Innovation: Always learning & implementing cutting-edge technologies
 ```
 
-</div>
-
 ---
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                 PREMIUM CTA FOOTER                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
 
 ## 💬 Let's Connect & Collaborate
 
-<br/>
+<div align="center">
 
 ### 🚀 Leading Technology at Futurinx
 
@@ -351,19 +281,19 @@ console.log(shanib.philosophy());
 <br/>
 
 <a href="mailto:dev.shanibck@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+  <img src="https://img.shields.io/badge/📧_EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.futurinx.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Futurinx-8A2BE2?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Futurinx"/>
+  <img src="https://img.shields.io/badge/🌐_FUTURINX-8A2BE2?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Futurinx"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.shanibck.site/" target="_blank">
-  <img src="https://img.shields.io/badge/💼_Portfolio-00FFFF?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/💼_PORTFOLIO-00FFFF?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shanib-c-k/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
@@ -391,5 +321,4 @@ console.log(shanib.philosophy());
 
 <br/>
 
-<!-- Premium Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00FFFF,100:00FF88&height=120&section=footer" width="100%" />
