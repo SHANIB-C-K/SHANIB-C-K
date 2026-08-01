@@ -1,92 +1,162 @@
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--                  ANIMATED HEADER BANNER                -->
+<!--                  PREMIUM HEADER BANNER                 -->
 <!-- ═══════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00FFFF,100:00FF88&height=280&section=header&text=SHANIB%20C%20K&fontSize=80&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=CTO%20and%20Co-Founder%20%40%20AppTech%20Gig%20%7C%20Full-Stack%20Developer%20%7C%20Ethical%20Hacker&descAlignY=58&descAlign=50&descSize=15" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=SHANIB%20C%20K&fontSize=90&fontAlignY=35&fontColor=fff&animation=twinkling&desc=CTO%20%26%20Co-Founder%20%40%20AppTech%20Gig%20%7C%20Full-Stack%20Developer%20%7C%20Certified%20Ethical%20Hacker&descAlignY=55&descAlign=50&descSize=16" width="100%" />
+</div>
+
+<div align="center">
+  
+  <!-- Premium Badges -->
+  <img src="https://img.shields.io/badge/🚀_CTO-AppTech_Gig-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Role"/>
+  <img src="https://img.shields.io/badge/🛡️_CEH-Certified-00FFFF?style=for-the-badge&labelColor=0D1117" alt="CEH"/>
+  <img src="https://img.shields.io/badge/💻_Full_Stack-MERN-00FF88?style=for-the-badge&labelColor=0D1117" alt="Stack"/>
+  
 </div>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--                   TYPING ANIMATION                     -->
+<!--                 PREMIUM TYPING ANIMATION               -->
 <!-- ═══════════════════════════════════════════════════════ -->
+<br/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00FFFF&center=true&vCenter=true&random=false&width=800&height=60&lines=🚀+Building+Products+That+Matter;💡+MERN+Stack+%7C+Full-Stack+Engineering;🛡️+Certified+Ethical+Hacker;🎨+UI%2FUX+%7C+Modern+Web+Experiences;⚙️+Scalable+Architectures+%26+Clean+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=900&height=70&lines=🚀+Architecting+Scalable+Solutions;💡+MERN+Stack+%7C+Full-Stack+Innovation;🛡️+Cybersecurity+%7C+Ethical+Hacking;🎨+Crafting+Premium+User+Experiences;⚙️+Building+Tomorrow's+Technology+Today" alt="Typing Animation" />
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--               CODE WRITING ANIMATION                   -->
+<!--             PREMIUM CODE ANIMATION BLOCK               -->
 <!-- ═══════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=180&lines=const+ShanibCK+%3D+new+Developer();+%2F%2F+%F0%9F%9A%80;+;ShanibCK.skills+%3D+%5B'React'%2C+'Node.js'%2C+'MongoDB'%5D;;ShanibCK.role+%3D+'CTO+%40+AppTech+Gig';;ShanibCK.build(idea)+%3D%3E+innovation; " alt="Code Writing Animation"/>
+  
+```typescript
+class Developer {
+  name     = "Shanib C K";
+  role     = "CTO & Co-Founder @ AppTech Gig";
+  location = "🌍 Building globally, thinking locally";
+  
+  expertise = {
+    frontend  : ["React", "Next.js", "TypeScript", "Tailwind"],
+    backend   : ["Node.js", "Express", "Python", "Django"],
+    databases : ["MongoDB", "PostgreSQL", "Redis"],
+    cloud     : ["AWS", "Docker", "Firebase"],
+    security  : ["CEH Certified", "OWASP", "Penetration Testing"]
+  };
+  
+  currentFocus = () => {
+    return "🔥 Building AI-powered cloud-native products";
+  };
+  
+  philosophy = () => {
+    return "Innovation through clean code & scalable architecture";
+  };
+}
+
+const shanib = new Developer();
+console.log(shanib.currentFocus()); // Let's build something amazing! 🚀
+```
+
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--                   SOCIAL BADGES                        -->
+<!--                  PREMIUM SOCIAL BADGES                 -->
 <!-- ═══════════════════════════════════════════════════════ -->
 <div align="center">
+  
+  ### 🔗 Connect With Me
+  
   <a href="https://www.shanibck.site/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=00FFFF" alt="Portfolio"/>
-  </a>&nbsp;
-  <a href="mailto:dev.shanibck@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/shanib-c-k/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://twitter.com/Shanib_c_k/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>&nbsp;
-  <a href="https://dev.to/shanib_c_k/" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>&nbsp;
-  <a href="https://www.instagram.com/shanib_c_k_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>&nbsp;
-  <a href="https://wa.link/4vi421" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-8A2BE2?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
   </a>
+  <a href="https://www.linkedin.com/in/shanib-c-k/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dev.shanibck@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/Shanib_c_k/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" alt="Twitter"/>
+  </a>
+  <a href="https://dev.to/shanib_c_k/" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0D1117" alt="Dev.to"/>
+  </a>
+  <a href="https://www.instagram.com/shanib_c_k_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/>
+  </a>
+  <a href="https://wa.link/4vi421" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" alt="WhatsApp"/>
+  </a>
+  
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SHANIB-C-K&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SHANIB-C-K&label=Profile%20Views&color=8A2BE2&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SHANIB-C-K?label=Followers&style=for-the-badge&color=00FFFF&labelColor=0D1117&logo=github" alt="Followers" />
 </div>
 
 <br/>
 
----
-
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME                          -->
+<!--                  PREMIUM ABOUT SECTION                 -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## ⚡ About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```javascript
 const shanib = {
   name      : "Shanib C K",
-  role      : "CTO & Co-Founder @ AppTech Gig",
+  title     : "CTO & Co-Founder",
+  company   : "AppTech Gig",
   education : "Diploma in Computer Engineering",
-  security  : "Certified Ethical Hacker (CEH)",
-  stack     : ["React", "Next.js", "Node.js", "MongoDB", "PostgreSQL", "Docker"],
-  passions  : ["Full-Stack Dev", "UI/UX Design", "Scalable Architectures"],
-  currently : "Building AI-powered & cloud-native products",
-  motto     : "Innovation is at the core of every great project.",
+  
+  certifications: {
+    security: "Certified Ethical Hacker (CEH)",
+    focus   : ["Penetration Testing", "OWASP", "Security Auditing"]
+  },
+  
+  techStack: {
+    frontend  : ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend   : ["Node.js", "Express", "Python", "Django"],
+    databases : ["MongoDB", "PostgreSQL", "Redis", "Firebase"],
+    devOps    : ["Docker", "AWS", "Linux", "Git"],
+    mobile    : ["Flutter", "React Native"]
+  },
+  
+  currentMission: "Building AI-powered & cloud-native products",
+  passions: ["Scalable Architecture", "Clean Code", "UI/UX Design"],
+  
+  workingOn: [
+    "🔥 Next-gen AI applications",
+    "☁️ Cloud-native microservices",
+    "🎨 Premium user experiences"
+  ],
+  
+  philosophy: "Innovation is at the core of every great project.",
+  
+  funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
 
-- 🎓 **Education:** Diploma in Computer Engineering
-- 💼 **Role:** CTO & Co-Founder at [AppTech Gig](https://www.linkedin.com/company/apptechgig/)
-- 🛡️ **Cybersecurity:** Certified Ethical Hacker
-- 🌱 **Currently Exploring:** Cloud-native architectures & AI-powered applications
-- 💬 **Ask me about:** MERN stack, backend architectures, modern design systems
-- ⚡ **Philosophy:** *"Innovation is at the core of every great project."*
+<br clear="right"/>
 
----
+### 🎯 Current Focus
+
+- 🚀 **Leading Development** at [AppTech Gig](https://www.linkedin.com/company/apptechgig/) as CTO & Co-Founder
+- 🧠 **Exploring:** AI Integration, Cloud Architecture & Serverless Technologies
+- 🛡️ **Security First:** Implementing best practices in every line of code
+- 🌱 **Always Learning:** Keeping up with the latest in web3, AI/ML, and DevOps
+- 💬 **Let's Talk:** MERN Stack, System Design, Cybersecurity & Startup Building
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                    TECH STACK                          -->
